@@ -76,7 +76,7 @@ Function DebloatBlacklist {
         "Microsoft.Office.Todo.List"
         "Microsoft.Whiteboard"
         "Microsoft.WindowsAlarms"
-        #"Microsoft.WindowsCamera"
+        "Microsoft.WindowsCamera"
         "microsoft.windowscommunicationsapps"
         "Microsoft.WindowsFeedbackHub"
         "Microsoft.WindowsMaps"
@@ -86,7 +86,7 @@ Function DebloatBlacklist {
         "Microsoft.XboxGameOverlay"
         "Microsoft.XboxIdentityProvider"
         "Microsoft.XboxSpeechToTextOverlay"
-        "Microsoft.ZuneMusic"
+        #"Microsoft.ZuneMusic"
         "Microsoft.ZuneVideo"
 
         #Sponsored Windows 10 AppX Apps
@@ -112,8 +112,8 @@ Function DebloatBlacklist {
         #Optional: Typically not removed but you can if you need to for some reason
         #"*Microsoft.Advertising.Xaml_10.1712.5.0_x64__8wekyb3d8bbwe*"
         #"*Microsoft.Advertising.Xaml_10.1712.5.0_x86__8wekyb3d8bbwe*"
-        #"*Microsoft.BingWeather*"
-        #"*Microsoft.MSPaint*"
+        "*Microsoft.BingWeather*"
+        "*Microsoft.MSPaint*"
         #"*Microsoft.MicrosoftStickyNotes*"
         #"*Microsoft.Windows.Photos*"
         #"*Microsoft.WindowsCalculator*"
